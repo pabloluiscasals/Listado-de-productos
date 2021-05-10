@@ -21,3 +21,7 @@ se ejecuta en el puerto 4000 para asi poder ejecutar la aplicación en el puerto
 npm start
 
 Se iniciara la aplicación en: http://localhost:3000
+
+# Una muestra simple de su funcionamiento:
+
+https://www.loom.com/share/66107c854c69430db605d4e13321b2b9
