@@ -1,0 +1,34 @@
+{
+  "productos": [
+    {
+      "nombre": "Empanadas de carne x docena",
+      "precio": "400",
+      "id": 13
+    },
+    {
+      "nombre": "Empanadas de carne x media docena",
+      "precio": 150,
+      "id": 14
+    },
+    {
+      "nombre": "Pan Casero grande",
+      "precio": "70",
+      "id": 15
+    },
+    {
+      "nombre": "Pan casero chico",
+      "precio": 40,
+      "id": 16
+    },
+    {
+      "nombre": "Tortitas de grasa x media docena",
+      "precio": 70,
+      "id": 17
+    },
+    {
+      "nombre": "Tortitas de grasa con azucar x media docena",
+      "precio": 70,
+      "id": 18
+    }
+  ]
+}
